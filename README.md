@@ -16,4 +16,4 @@ Notes/exercise proejects for the Deep learning Specialization in Coursera Under 
 
 :triangular_flag_on_post:By July 18, 2022
 - Finish CNN/Residual Networks, Transfer Learning with MobileNet :thumbsup:
-- Unpload CNN/Car Detection with YOLO, Image Segmentation with U-Net
+- Unpload CNN/Car Detection with YOLO, Image Segmentation with U-Net :thumbsup:
